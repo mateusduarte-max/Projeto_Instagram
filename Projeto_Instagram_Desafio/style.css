@@ -33,7 +33,7 @@ body {
 }
 
 .instagram-phone img {
-    height: 50rem;
+    height: 45rem;
 }
 
 .instagram-continue {
@@ -78,7 +78,7 @@ body {
 }
 
 .instagram-login {
-    background-color: #0095f6;
+    background-color: #87CEEB;
     color: #ffffff;
     padding: 8px;
     border-radius: 4px;
